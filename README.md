@@ -36,7 +36,7 @@ The script will create a new folder in output_folder for each arxiv_id, and both
 
 ## Disclaimer
 
-Scraping ArXiv should respect their [robots.txt](https://arxiv.org/robots.txt) file and policies, and consider that the excessive download of articles may be prohibited. Please contact arxiv to get explicit permission to scrape their articles if you plan on doing so on a larger scale.
+Scraping arxiv should respect their [robots.txt](https://arxiv.org/robots.txt) file and policies, and consider that the excessive download of articles may be prohibited. Please contact arxiv to get explicit permission to scrape their articles if you plan on doing so on a larger scale.
 
 ## License
 
